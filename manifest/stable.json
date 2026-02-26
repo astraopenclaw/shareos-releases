@@ -1,7 +1,12 @@
 {
   "channel": "stable",
-  "version": "0.0.1",
-  "publishedAt": "2026-02-26T00:00:00Z",
-  "notes": "Bootstrap manifest (no payload yet).",
-  "payload": null
+  "version": "0.0.1-demo1",
+  "publishedAt": "2026-02-26T14:20:00Z",
+  "notes": "First OTA pipeline test payload.",
+  "payload": {
+    "type": "tar.gz",
+    "url": "https://astraopenclaw.github.io/shareos-releases/payloads/shareos-payload-0.0.1-demo1.tar.gz",
+    "sha256": "daa66c5137e19765c66ec8902d956d430a074667972ca050b613a528208080da",
+    "size": 368
+  }
 }
