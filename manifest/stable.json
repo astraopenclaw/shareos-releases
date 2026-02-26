@@ -1,0 +1,7 @@
+{
+  "channel": "stable",
+  "version": "0.0.1",
+  "publishedAt": "2026-02-26T00:00:00Z",
+  "notes": "Bootstrap manifest (no payload yet).",
+  "payload": null
+}
